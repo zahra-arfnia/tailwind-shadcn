@@ -1,1 +1,1 @@
-# tailwind-shadcn
+# shadcn-tailwind
